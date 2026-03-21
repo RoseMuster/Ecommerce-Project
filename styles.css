@@ -408,8 +408,8 @@ FOOTER
     .nav__links {
         display: none;
     }
-}
 
 .btn__menu {
-    display: black;
+    display: block;
+    }
 }
